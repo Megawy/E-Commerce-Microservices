@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "51ecHV9Ivq8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MEGA\\source\\repos\\ECommerce.ProductApiSolution\\ProductApi.Present\\ProductApi.Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MEGA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\MEGA\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Role Assigned</title>
+</head>
+
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0"
+           style="background-color: #f4f4f4; padding: 20px 0;">
+        <tr>
+            <td align="center">
+                <table role="presentation" width="500px" cellspacing="0" cellpadding="0" border="0"
+                       style="background-color: #ffffff; padding: 20px; border-radius: 8px;
+                           box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); text-align: center;">
+                    <tr>
+                        <td>
+                            <h2 style="color: #333;">🎉 Congratulations, You are now an Admin! 🎉</h2>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p style="background: #28a745; color: white; padding: 15px; font-size: 18px; border-radius: 4px;">
+                                You have been assigned the <strong>Admin Role</strong>.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0"
+                                   style="background: #f9f9f9; padding: 15px; border-radius: 4px;">
+                                <tr>
+                                    <td style="text-align: left;">
+                                        <p><strong>Email:</strong> {{UserEmail}}</p>
+                                        <p><strong>Assigned Time:</strong> {{AssignedTime}}</p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>You now have access to the Admin Dashboard. Click below to manage your account.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <a href="{{AdminDashboardLink}}"
+                               style="display: inline-block; background: #007bff; color: white; padding: 10px 20px;
+                                       text-decoration: none; border-radius: 5px; margin-top: 15px;">
+                                Go to Admin Dashboard
+                            </a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p style="font-size: 14px; color: #777; margin-top: 20px;">
+                                If you have any questions, please contact the support team.
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>

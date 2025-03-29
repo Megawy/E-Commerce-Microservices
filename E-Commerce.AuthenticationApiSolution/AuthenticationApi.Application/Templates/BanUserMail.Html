@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            margin: auto;
+        }
+
+        .alert {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class='container'>
+        <h2>Account Status Update</h2>
+        <p>Hello,</p>
+        <p>Your account status has been updated.</p>
+        <p class='alert'>Ban Status: {{ban_status}}</p>
+        <p>If you believe this was a mistake, please contact support.</p>
+    </div>
+</body>
+</html>

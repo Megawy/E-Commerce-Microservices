@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E9A86E-E91D-49A3-AB3D-7A00FD1B8675}|AuthenticationApi.Infrastructrue\\AuthenticationApi.Infrastructrue.csproj|c:\\users\\mega\\source\\repos\\e-commerce\\e-commerce.authenticationapisoultion\\authenticationapi.infrastructrue\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E9A86E-E91D-49A3-AB3D-7A00FD1B8675}|AuthenticationApi.Infrastructrue\\AuthenticationApi.Infrastructrue.csproj|solutionrelative:authenticationapi.infrastructrue\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFA6FF-EAAE-41F9-98E7-1675EE8086F7}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\mega\\source\\repos\\e-commerce\\e-commerce.authenticationapisoultion\\authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FFA6FF-EAAE-41F9-98E7-1675EE8086F7}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A90F15-BA20-4349-9BA8-825DA2813358}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\mega\\source\\repos\\e-commerce\\e-commerce.authenticationapisoultion\\authenticationapi.application\\dtos\\authenticationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A90F15-BA20-4349-9BA8-825DA2813358}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\dtos\\authenticationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FFA6FF-EAAE-41F9-98E7-1675EE8086F7}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|c:\\users\\mega\\source\\repos\\e-commerce\\e-commerce.authenticationapisoultion\\authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54FFA6FF-EAAE-41F9-98E7-1675EE8086F7}|AuthenticationApi.Presentation\\AuthenticationApi.Presentation.csproj|solutionrelative:authenticationapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A90F15-BA20-4349-9BA8-825DA2813358}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|c:\\users\\mega\\source\\repos\\e-commerce\\e-commerce.authenticationapisoultion\\authenticationapi.application\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A90F15-BA20-4349-9BA8-825DA2813358}|AuthenticationApi.Application\\AuthenticationApi.Application.csproj|solutionrelative:authenticationapi.application\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T07:09:33.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Application\\DTOs\\AuthenticationProfile.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\DTOs\\AuthenticationProfile.cs",
+              "ToolTip": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Application\\DTOs\\AuthenticationProfile.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\DTOs\\AuthenticationProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:24:09.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "AuthenticationApi.Presentation\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAkwGoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:45:05.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Infrastructrue\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Infrastructrue\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Infrastructrue\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "AuthenticationApi.Infrastructrue\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAkwK4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:06:16.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\MEGA\\source\\repos\\E-Commerce\\E-Commerce.AuthenticationApiSoultion\\AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "AuthenticationApi.Application\\Interfaces\\IUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T05:21:57.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
